@@ -38,18 +38,15 @@ Olá! Sou o Gabriel, tenho 20 anos e moro em Guarulhos/SP. Atualmente estou no 3
 
 ### 📊 Estatísticas
 
-
-  ### 📊 Estatísticas
-
 <p align="left">
   <img 
-    height="200" 
+    height="180" 
     alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=GabrielFagundes18&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Gabriel-Fagundes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
-    height="200" 
+    height="180" 
     alt="Top Langs" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFagundes18&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Fagundes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 </p>
