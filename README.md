@@ -1,52 +1,96 @@
-## Gabriel Fagundes
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Gabriel%20Fagundes&fontSize=70&fontAlign=50&fontAlignY=35&animation=fadeIn&secondaryColor=38bdf8&fontColor=ffffff" alt="Header">
 
-**`Desenvolvedor Full Stack`**
-
-Olá! Sou o Gabriel, tenho 20 anos e moro em Guarulhos/SP. Atualmente estou no 3º semestre de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. Sou focado em criar soluções eficientes usando o ecossistema JavaScript, com experiência prática em React, Node.js e bancos de dados relacionais.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Progress;Front-end+Specialist;Full+Stack+Developer;React+19+%2B+TypeScript;Node.js+Ecosystem;Clean+Code+%26+SOLID+Principles;Scalable+Software+Architecture;Focus+on+Performance+%26+UX)](https://git.io/typing-svg)
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Disponível_para_Oportunidades-38bdf8?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Local-Guarulhos%2C_SP-white?style=for-the-badge&logo=googlemaps&logoColor=red" />
+  </p>
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 👨‍💻 Sobre Mim
 
+Desenvolvedor em formação focado no ecossistema JavaScript/TypeScript. Atualmente no 3º semestre de Análise e Desenvolvimento de Sistemas, dedico-me ao estudo prático de interfaces modernas e arquiteturas de back-end, buscando sempre o equilíbrio entre código limpo e uma experiência de usuário intuitiva.
+
+Busco minha primeira oportunidade no mercado para aplicar conhecimentos acadêmicos em projetos reais, contribuindo com agilidade e um olhar atento às melhores práticas de desenvolvimento.
+
+🚀 Base Técnica: Desenvolvimento de SPAs com React, integração com APIs REST e fundamentos de bancos de dados relacionais.
+
+🛠️ Qualidade de Código: Prática constante de Clean Code, componentização e organização de projetos seguindo padrões de mercado.
+
+🧠 Perfil: Proativo, excelente capacidade de aprendizado e facilidade em trabalhar com metodologias ágeis (Scrum/Kanban).
+
+🏍️ Lifestyle: Entusiasta de tecnologia e apaixonado pela liberdade sobre duas rodas.
+---
+
+### 🛠️ Tech Stack
+
+#### 🎨 Front-end (Core)
 <p align="left">
-  <img title="HTML5" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img title="CSS3" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img title="Bootstrap" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img title="JavaScript" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img title="TypeScript" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img title="React" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img title="Node.js" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img title="PostgreSQL" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img title="Styled Components" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styledcomponents/styledcomponents-original.svg" />
-  <img title="Git" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img src="https://img.shields.io/badge/React_19-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black">
 </p>
+
+#### ⚙️ Back-end & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Neon_DB-00E599?style=flat-square&logo=neon&logoColor=black">
+  <img src="https://img.shields.io/badge/Bcrypt_Auth-gray?style=flat-square&logo=google-cloud&logoColor=white">
+</p>
+
 ---
 
-### 📩 Contato
+### 🎓 Formação Acadêmica & Certificações
+
+#### 🏫 Ensino Superior
+* **Análise e Desenvolvimento de Sistemas** | Universidade Cruzeiro do Sul
+  * *Período: 2025 - 2026 (3º Semestre)*
+
+#### 🏆 Certificações Técnicas (DIO & Especializações)
+* **React Specialist:** Domínio de Hooks, Context API e otimização de renderização.
+* **Modern JavaScript (ES6+):** Programação funcional, assincronismo e manipulação avançada de DOM.
+* **Node.js Professional:** Desenvolvimento de APIs RESTful, integração com bancos de dados e segurança (JWT/Bcrypt).
+* **TypeScript Fundamentals:** Tipagem estática, Interfaces e Generics para código escalável.
+
+---
+
+
+### 📊 Estatísticas e Atividade
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielFagundes18&bg_color=000000&color=38bdf8&line=38bdf8&point=38bdf8&area=true&hide_border=true" />
+</div>
+
+---
+
+### 📫 Vamos nos conectar?
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-LINKEDIN">
+  <a href="https://www.linkedin.com/in/gabriel-fagundes-de-oliveira" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU-EMAIL-AQUI@gmail.com">
+  <a href="https://wa.me/5511959327821" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:gabrielfagundesvv@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://gabrielfagundes18.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 📊 Estatísticas
+<div align="center">
+  <p>"Transformando lógica em interfaces que entregam valor."</p>
+  <img src="https://komarev.com/ghpvc/?username=GabrielFagundes18&color=38bdf8&style=flat-square&label=VISITAS+AO+PERFIL" alt="Views" />
+</div>
 
-<p align="left">
-  <img 
-    height="180" 
-    alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=Gabriel-Fagundes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    height="180" 
-    alt="Top Langs" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Fagundes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-</p>
+
+
