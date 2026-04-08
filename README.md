@@ -23,6 +23,8 @@ Busco minha primeira oportunidade no mercado para aplicar conhecimentos acadêmi
 🧠 Perfil: Proativo, excelente capacidade de aprendizado e facilidade em trabalhar com metodologias ágeis (Scrum/Kanban).
 
 🏍️ Lifestyle: Entusiasta de tecnologia e apaixonado pela liberdade sobre duas rodas.
+
+
 ---
 
 ### 🛠️ Tech Stack
