@@ -76,6 +76,7 @@ Busco minha primeira oportunidade no mercado para aplicar conhecimentos acadêmi
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielFagundes18&bg_color=000000&color=38bdf8&line=38bdf8&point=38bdf8&area=true&hide_border=true" />
 </div>
+<img src="https://raw.githubusercontent.com/GabrielFagundes18/GabrielFagundes18/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 
 ---
 
