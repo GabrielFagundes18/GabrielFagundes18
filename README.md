@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Gabriel%20Fagundes&fontSize=70&fontAlign=50&fontAlignY=35&animation=fadeIn&secondaryColor=38bdf8&fontColor=ffffff" alt="Header">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Progress;Front-end+Specialist;Full+Stack+Developer;React+%2B+TypeScript;Node.js+Ecosystem;Clean+Code+%26+SOLID;Scalable+Architecture;Performance+%26+UX+Focused)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-end;Desenvolvedor+Full+Stack;React+%2B+TypeScript;Integração+com+APIs+REST+e+Node.js;Interfaces+modernas+com+foco+em+UX;Código+limpo+e+boas+práticas)](https://git.io/typing-svg)
 
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Disponível_para_Oportunidades-38bdf8?style=for-the-badge&logo=github&logoColor=white" />
@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+##  Sobre Mim
 
 Desenvolvedor focado no ecossistema **JavaScript/TypeScript**, com experiência na construção de interfaces modernas e aplicações **Full Stack escaláveis**.
 
@@ -23,41 +23,15 @@ Atualmente aprofundando conhecimentos em **sistemas escaláveis** e padrões uti
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Atuar como **Desenvolvedor Front-end ou Full Stack Júnior**, contribuindo com soluções eficientes, escaláveis e orientadas à experiência do usuário.
 
 ---
 
-## 🚀 Projetos em Destaque
+##  Tech Stack
 
-### 🔹 Dashboard Hamburgueria Admin
-Sistema completo para gerenciamento de pedidos, produtos e clientes.
-
-- Interface moderna com React
-- Integração com API REST
-- Autenticação com JWT
-- Organização baseada em componentes reutilizáveis
-
-👉 https://github.com/GabrielFagundes18/Deshboard-Hamburgueria-Admin
-
----
-
-### 🔹 Sistema de Gestão de Produtos
-Aplicação full stack para controle de produtos com persistência em banco de dados.
-
-- Node.js + PostgreSQL
-- CRUD completo
-- Estrutura escalável de back-end
-- Integração front-end + back-end
-
-👉 (adicione aqui quando tiver)
-
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Front-end
+###  Front-end
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -66,7 +40,7 @@ Aplicação full stack para controle de produtos com persistência em banco de d
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 </p>
 
-### ⚙️ Back-end & Banco de Dados
+###  Back-end & Banco de Dados
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -74,7 +48,7 @@ Aplicação full stack para controle de produtos com persistência em banco de d
   <img src="https://img.shields.io/badge/Bcrypt-gray?style=for-the-badge&logo=google-cloud&logoColor=white">
 </p>
 
-### 🔧 Tools & Deploy
+###  Tools & Deploy
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white">
@@ -84,7 +58,7 @@ Aplicação full stack para controle de produtos com persistência em banco de d
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielFagundes18&bg_color=000000&color=38bdf8&line=38bdf8&point=38bdf8&area=true&hide_border=true" />
@@ -94,15 +68,15 @@ Aplicação full stack para controle de produtos com persistência em banco de d
 
 ---
 
-## 🎓 Formação
+##  Formação
 
-🎓 **Análise e Desenvolvimento de Sistemas**  
+**Análise e Desenvolvimento de Sistemas**  
 Universidade Cruzeiro do Sul  
-📅 2025 - 2026 (3º semestre)
+ 2025 - 2026 (3º semestre)
 
 ---
 
-## 🏆 Certificações
+## Certificações
 
 - React Specialist (Hooks, Context API, performance)
 - JavaScript ES6+ (assincronismo, DOM, programação funcional)
@@ -111,7 +85,7 @@ Universidade Cruzeiro do Sul
 
 ---
 
-## 📫 Contato
+## Contato
 
 <p>
   <a href="https://www.linkedin.com/in/gabriel-fagundes-de-oliveira">
