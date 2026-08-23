@@ -72,7 +72,7 @@ Atuar como **Desenvolvedor Front-end ou Full Stack Júnior**, contribuindo com s
 
 **Análise e Desenvolvimento de Sistemas**  
 Universidade Cruzeiro do Sul  
- 2025 - 2026 (3º semestre)
+ 2025 - 2026 (4º semestre)
 
 ---
 
