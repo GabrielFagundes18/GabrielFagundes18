@@ -12,20 +12,9 @@
 ---
 
 ##  Sobre Mim
-
-Desenvolvedor focado no ecossistema **JavaScript/TypeScript**, com experiência na construção de interfaces modernas e aplicações **Full Stack escaláveis**.
-
-Atuo no desenvolvimento de **SPAs com React**, integração com APIs REST e estruturação de back-end com **Node.js**, sempre priorizando performance, organização e experiência do usuário.
-
-Tenho forte preocupação com qualidade de código, aplicando princípios de **Clean Code**, componentização e boas práticas de arquitetura.
-
-Atualmente aprofundando conhecimentos em **sistemas escaláveis** e padrões utilizados no mercado.
-
----
-
-##  Objetivo
-
-Atuar como **Desenvolvedor Front-end ou Full Stack Júnior**, contribuindo com soluções eficientes, escaláveis e orientadas à experiência do usuário.
+Desenvolvedor Full Stack focado no ecossistema **JavaScript/TypeScript**, construindo SPAs com **React** e APIs com **Node.js**. Busco minha primeira oportunidade como **Front-end ou Full Stack Júnior**, e enquanto isso venho me dedicando a projetos práticos para consolidar arquitetura, integração com back-end e boas práticas de código.
+ 
+Atualmente cursando **Análise e Desenvolvimento de Sistemas** e aprofundando conhecimentos em sistemas escaláveis.
 
 ---
 
