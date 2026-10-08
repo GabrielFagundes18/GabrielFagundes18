@@ -27,7 +27,7 @@ Plataforma para uma ONG de adoção animal: site público, painel administrativo
 - **API:** Node.js, Express, PostgreSQL, JWT com refresh token, upload de fotos, e-mails, doações via Mercado Pago com webhooks
 - **Engenharia:** arquitetura modular por domínio, migrations com rollback, contrato OpenAPI, testes unitários e de integração, CI no GitHub Actions com Postgres, Docker
 
-[Front-end](https://github.com/GabrielFagundes18/Patas-em-Casa) · [API](https://github.com/GabrielFagundes18/Patas-em-casa-backend)
+**[Demo](https://patas-em-casa-ruby.vercel.app)** · [Front-end](https://github.com/GabrielFagundes18/Patas-em-Casa) · [API](https://github.com/GabrielFagundes18/Patas-em-casa-backend)
 
 ---
 
@@ -35,7 +35,7 @@ Plataforma para uma ONG de adoção animal: site público, painel administrativo
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
-| [Golden Razor](https://github.com/GabrielFagundes18/GOLDEN-RAZOR-BARBEARIA) | Gestão de barbearia com agendamento, fidelidade e painéis por perfil (cliente, barbeiro, admin) | React, TypeScript, Clerk, Express, PostgreSQL |
+| [Golden Razor](https://github.com/GabrielFagundes18/GOLDEN-RAZOR-BARBEARIA) · [demo](https://golden-razor-barbearia-wp48.vercel.app) | Gestão de barbearia com agendamento, fidelidade e painéis por perfil (cliente, barbeiro, admin) | React, TypeScript, Clerk, Express, PostgreSQL |
 | [Hamburgueria](https://github.com/GabrielFagundes18/Hamburgueria) · [demo](https://hamburgueria-gamma-five.vercel.app/) | Cardápio online com checkout e dashboard administrativo | React, Node.js, PostgreSQL |
 
 ---
